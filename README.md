@@ -12,35 +12,7 @@ I am a passionate Mechanical Engineer with a strong interest in design, manufact
 
 # 💻 Tech Stack:
 
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge\&logo=autodesk\&logoColor=white)
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge\&logo=dassaultsystemes\&logoColor=white)
-
-![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge\&logo=dassaultsystemes\&logoColor=white)
-
-![Creo](https://img.shields.io/badge/Creo-FF6C00?style=for-the-badge\&logo=ptc\&logoColor=white)
-
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge\&logo=ansys\&logoColor=black)
-
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge\&logo=autodesk\&logoColor=white)
-
-![CNC](https://img.shields.io/badge/CNC_Machining-0A66C2?style=for-the-badge)
-
-![Manufacturing](https://img.shields.io/badge/Manufacturing-4B5563?style=for-the-badge)
-
-![Product Design](https://img.shields.io/badge/Product_Design-16A34A?style=for-the-badge)
-
-![Mechanical Drafting](https://img.shields.io/badge/Mechanical_Drafting-1D4ED8?style=for-the-badge)
-
-![Engineering Drawing](https://img.shields.io/badge/Engineering_Drawing-9333EA?style=for-the-badge)
-
-![GD\&T](https://img.shields.io/badge/GD%26T-DC2626?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge\&logo=autodesk\&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge\&logo=dassaultsystemes\&logoColor=white) ![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge\&logo=dassaultsystemes\&logoColor=white) ![Creo](https://img.shields.io/badge/Creo-FF6C00?style=for-the-badge\&logo=ptc\&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge\&logo=ansys\&logoColor=black) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge\&logo=autodesk\&logoColor=white) ![CNC](https://img.shields.io/badge/CNC_Machining-0A66C2?style=for-the-badge) ![Manufacturing](https://img.shields.io/badge/Manufacturing-4B5563?style=for-the-badge) ![Product Design](https://img.shields.io/badge/Product_Design-16A34A?style=for-the-badge) ![Mechanical Drafting](https://img.shields.io/badge/Mechanical_Drafting-1D4ED8?style=for-the-badge) ![Engineering Drawing](https://img.shields.io/badge/Engineering_Drawing-9333EA?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
