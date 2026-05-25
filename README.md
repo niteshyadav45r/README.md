@@ -26,7 +26,10 @@ I am a passionate Mechanical Engineer with a strong interest in design, manufact
 
 # 🟢 Contributions Overview
 
-[![Nitesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+# 🟢 Contributions Overview
+
+[![Nitesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
 
 ---
 
