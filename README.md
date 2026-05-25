@@ -22,20 +22,16 @@ I am a passionate Mechanical Engineer with a strong interest in design, manufact
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=false\&layout=compact)
 
----
-
 # 🟢 Contributions Overview
 
-# 🟢 Contributions Overview
-
-[![Nitesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
+[![Nitesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niteshyadav07\&theme=tokyo-night)](https://github.com/niteshyadav07)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=niteshyadav07\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/niteshyadav07?style=for-the-badge)
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/niteshyadav07?style=for-the-badge)
+
 
