@@ -28,10 +28,10 @@ I am a passionate Mechanical Engineer with a strong interest in design, manufact
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=niteshyadav07\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=niteshyadav07\&label=Profile%20Views\&color=0e75b6\&style=flat) ![Stars](https://img.shields.io/github/stars/niteshyadav07?style=for-the-badge) ![Followers](https://img.shields.io/github/followers/niteshyadav07?style=for-the-badge)
 
-![Followers](https://img.shields.io/github/followers/niteshyadav07?style=for-the-badge)
 
-![Stars](https://img.shields.io/github/stars/niteshyadav07?style=for-the-badge)
+
+
 
 
